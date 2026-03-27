@@ -1,0 +1,238 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6">
+  <diagram name="Страница-1" id="CcgP9APMn3T3KbocQze6">
+    <mxGraphModel dx="1501" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-6" edge="1" parent="1" source="b9Ca59AxzbwXf8FPaLKa-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;startSize=9;" target="b9Ca59AxzbwXf8FPaLKa-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#050505;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="105" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-9" edge="1" parent="1" source="b9Ca59AxzbwXf8FPaLKa-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" target="b9Ca59AxzbwXf8FPaLKa-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Формирования заявки на вакансию" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Работодатель" vertex="1">
+          <mxGeometry height="30" width="60" x="90" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-11" edge="1" parent="1" source="b9Ca59AxzbwXf8FPaLKa-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="b9Ca59AxzbwXf8FPaLKa-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Передача заявки рекрутеру" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Рекрутер" vertex="1">
+          <mxGeometry height="30" width="60" x="280" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-13" edge="1" parent="1" source="b9Ca59AxzbwXf8FPaLKa-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="b9Ca59AxzbwXf8FPaLKa-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Анализ требований вакансии" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-15" edge="1" parent="1" source="b9Ca59AxzbwXf8FPaLKa-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="b9Ca59AxzbwXf8FPaLKa-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Передача данных системе" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-19" edge="1" parent="1" source="b9Ca59AxzbwXf8FPaLKa-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="b9Ca59AxzbwXf8FPaLKa-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Сохранение вакансии в базе данных" vertex="1">
+          <mxGeometry height="60" width="120" x="450" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-22" edge="1" parent="1" source="b9Ca59AxzbwXf8FPaLKa-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="b9Ca59AxzbwXf8FPaLKa-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Поиск кандидатов" vertex="1">
+          <mxGeometry height="60" width="120" x="450" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-24" edge="1" parent="1" source="b9Ca59AxzbwXf8FPaLKa-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="b9Ca59AxzbwXf8FPaLKa-25" value="Нет">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-27" edge="1" parent="1" source="b9Ca59AxzbwXf8FPaLKa-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="b9Ca59AxzbwXf8FPaLKa-48" value="Да">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-23" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="490" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-46" edge="1" parent="1" source="b9Ca59AxzbwXf8FPaLKa-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="b9Ca59AxzbwXf8FPaLKa-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Публикация вакансии" vertex="1">
+          <mxGeometry height="60" width="120" x="620" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-29" edge="1" parent="1" source="b9Ca59AxzbwXf8FPaLKa-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="b9Ca59AxzbwXf8FPaLKa-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Связь с кандидатами" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-31" edge="1" parent="1" source="b9Ca59AxzbwXf8FPaLKa-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="b9Ca59AxzbwXf8FPaLKa-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Отправить приглашение кандидату" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-33" edge="1" parent="1" source="b9Ca59AxzbwXf8FPaLKa-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="b9Ca59AxzbwXf8FPaLKa-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Подтверждение участия" vertex="1">
+          <mxGeometry height="60" width="120" x="760" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-36" edge="1" parent="1" source="b9Ca59AxzbwXf8FPaLKa-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="b9Ca59AxzbwXf8FPaLKa-45" value="Да">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1130" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-37" edge="1" parent="1" source="b9Ca59AxzbwXf8FPaLKa-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="b9Ca59AxzbwXf8FPaLKa-21" value="Нет">
+          <mxGeometry relative="1" x="-0.9286" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="970" y="920" />
+              <mxPoint x="970" y="420" />
+            </Array>
+            <mxPoint x="790" y="920" as="sourcePoint" />
+            <mxPoint x="959.9999999999998" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-34" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="800" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Кандидат" vertex="1">
+          <mxGeometry height="30" width="60" x="800" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-40" edge="1" parent="1" source="b9Ca59AxzbwXf8FPaLKa-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="b9Ca59AxzbwXf8FPaLKa-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Найден кандидаты?" vertex="1">
+          <mxGeometry height="60" width="120" x="450" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-42" edge="1" parent="1" source="b9Ca59AxzbwXf8FPaLKa-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="b9Ca59AxzbwXf8FPaLKa-41" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="630" as="sourcePoint" />
+            <mxPoint x="960" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Принять интервью?&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="760" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Система" vertex="1">
+          <mxGeometry height="30" width="60" x="510" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-47" edge="1" parent="1" source="b9Ca59AxzbwXf8FPaLKa-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="b9Ca59AxzbwXf8FPaLKa-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Отправить согласие рекрутёру" vertex="1">
+          <mxGeometry height="60" width="120" x="760" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-49" edge="1" parent="1" source="b9Ca59AxzbwXf8FPaLKa-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Оформление список кандидатов" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-51" edge="1" parent="1" source="b9Ca59AxzbwXf8FPaLKa-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="b9Ca59AxzbwXf8FPaLKa-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Провести интервью" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-53" edge="1" parent="1" source="b9Ca59AxzbwXf8FPaLKa-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="b9Ca59AxzbwXf8FPaLKa-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Отправить кандидата к работодателю" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-55" edge="1" parent="1" source="b9Ca59AxzbwXf8FPaLKa-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="b9Ca59AxzbwXf8FPaLKa-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="75" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Кандидат одобрен?" vertex="1">
+          <mxGeometry height="60" width="120" x="15" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="lIEAyTEx8esPY000EthT-1" edge="1" parent="1" source="b9Ca59AxzbwXf8FPaLKa-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lIEAyTEx8esPY000EthT-2" value="Да">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="75" y="1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b9Ca59AxzbwXf8FPaLKa-56" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="55" y="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="lIEAyTEx8esPY000EthT-3" edge="1" parent="1" source="lIEAyTEx8esPY000EthT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lIEAyTEx8esPY000EthT-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lIEAyTEx8esPY000EthT-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Принятие кандидата" vertex="1">
+          <mxGeometry height="60" width="120" x="15" y="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="lIEAyTEx8esPY000EthT-5" edge="1" parent="1" source="lIEAyTEx8esPY000EthT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lIEAyTEx8esPY000EthT-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="1480" />
+              <mxPoint x="570" y="1480" />
+            </Array>
+            <mxPoint x="280" y="1480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lIEAyTEx8esPY000EthT-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Оформление: трудоустройства&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="lIEAyTEx8esPY000EthT-7" edge="1" parent="1" source="lIEAyTEx8esPY000EthT-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.505;entryY=0.57;entryDx=0;entryDy=0;entryPerimeter=0;" target="lIEAyTEx8esPY000EthT-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280.72" y="1555.1799999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lIEAyTEx8esPY000EthT-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Закрыть вакансию" vertex="1">
+          <mxGeometry height="60" width="120" x="220" y="1450" as="geometry" />
+        </mxCell>
+        <mxCell id="lIEAyTEx8esPY000EthT-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#050505;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="265" y="1640" as="geometry" />
+        </mxCell>
+        <mxCell id="lIEAyTEx8esPY000EthT-12" parent="1" style="shape=line;html=1;strokeWidth=6;" value="" vertex="1">
+          <mxGeometry height="10" width="200" x="180" y="1550" as="geometry" />
+        </mxCell>
+        <mxCell id="lIEAyTEx8esPY000EthT-13" edge="1" parent="1" source="lIEAyTEx8esPY000EthT-12" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lIEAyTEx8esPY000EthT-8" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="1630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
