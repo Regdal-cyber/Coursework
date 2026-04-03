@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="xnJdQO56hC0KnvGaRmXv">
+    <mxGraphModel dx="682" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6EBgrBV8NBoHYKtz_uw3-25" edge="1" parent="1" source="6EBgrBV8NBoHYKtz_uw3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="6EBgrBV8NBoHYKtz_uw3-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBgrBV8NBoHYKtz_uw3-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Работодатель" vertex="1">
+          <mxGeometry height="60" width="30" x="130" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBgrBV8NBoHYKtz_uw3-22" edge="1" parent="1" source="6EBgrBV8NBoHYKtz_uw3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="6EBgrBV8NBoHYKtz_uw3-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBgrBV8NBoHYKtz_uw3-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Админис&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;тратор&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="130" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBgrBV8NBoHYKtz_uw3-23" edge="1" parent="1" source="6EBgrBV8NBoHYKtz_uw3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="6EBgrBV8NBoHYKtz_uw3-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBgrBV8NBoHYKtz_uw3-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Рекрутер" vertex="1">
+          <mxGeometry height="60" width="30" x="130" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBgrBV8NBoHYKtz_uw3-24" edge="1" parent="1" source="6EBgrBV8NBoHYKtz_uw3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="6EBgrBV8NBoHYKtz_uw3-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBgrBV8NBoHYKtz_uw3-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Кандидат" vertex="1">
+          <mxGeometry height="60" width="30" x="130" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBgrBV8NBoHYKtz_uw3-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Разместить вакансию" vertex="1">
+          <mxGeometry height="60" width="110" x="220" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBgrBV8NBoHYKtz_uw3-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Просмотреть кандидатов" vertex="1">
+          <mxGeometry height="60" width="110" x="359" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBgrBV8NBoHYKtz_uw3-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Принять решение по кандидату" vertex="1">
+          <mxGeometry height="60" width="110" x="490" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBgrBV8NBoHYKtz_uw3-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Просмотреть вакансии" vertex="1">
+          <mxGeometry height="60" width="110" x="220" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBgrBV8NBoHYKtz_uw3-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Откликнуться на вакансию" vertex="1">
+          <mxGeometry height="60" width="110" x="359" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBgrBV8NBoHYKtz_uw3-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Отправить резюме" vertex="1">
+          <mxGeometry height="60" width="110" x="490" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBgrBV8NBoHYKtz_uw3-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Подтвердить интервью" vertex="1">
+          <mxGeometry height="60" width="110" x="620" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBgrBV8NBoHYKtz_uw3-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Поиск кандидатов" vertex="1">
+          <mxGeometry height="60" width="110" x="600" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBgrBV8NBoHYKtz_uw3-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Анализ кандидатов" vertex="1">
+          <mxGeometry height="60" width="110" x="200" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBgrBV8NBoHYKtz_uw3-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Провести собеседование" vertex="1">
+          <mxGeometry height="60" width="110" x="490" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBgrBV8NBoHYKtz_uw3-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Отправить кандидата работодателю" vertex="1">
+          <mxGeometry height="60" width="110" x="620" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBgrBV8NBoHYKtz_uw3-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Закрыть вакансию" vertex="1">
+          <mxGeometry height="60" width="110" x="740" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBgrBV8NBoHYKtz_uw3-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Управление пользователями" vertex="1">
+          <mxGeometry height="60" width="110" x="210" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBgrBV8NBoHYKtz_uw3-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Настройка системы" vertex="1">
+          <mxGeometry height="60" width="110" x="340" y="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
