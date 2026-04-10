@@ -1,12 +1,9 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="ubEm_Oulf8R5rkpJ-Tdu">
-    <mxGraphModel dx="1172" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="569" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GbyoX73C8e9cxs2zFdnz-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Подбор персонала" vertex="1">
-          <mxGeometry height="120" width="240" x="280" y="360" as="geometry" />
-        </mxCell>
         <mxCell id="GbyoX73C8e9cxs2zFdnz-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;verticalAlign=bottom;" target="GbyoX73C8e9cxs2zFdnz-1" value="Резюме кандидатов">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="80" y="460" as="sourcePoint" />
@@ -63,14 +60,8 @@
         </mxCell>
         <mxCell id="iB75DvdvDCH5Lw6uBjdG-1" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.162;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;horizontal=0;verticalAlign=bottom;spacingLeft=-4;" value="Телефон">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="371" y="611" as="sourcePoint" />
-            <mxPoint x="370" y="480" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iB75DvdvDCH5Lw6uBjdG-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.162;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;horizontal=0;verticalAlign=bottom;spacingLeft=-4;" value="Excel">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="421" y="611" as="sourcePoint" />
-            <mxPoint x="420" y="480" as="targetPoint" />
+            <mxPoint x="401" y="611" as="sourcePoint" />
+            <mxPoint x="400" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iB75DvdvDCH5Lw6uBjdG-3" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.162;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;horizontal=0;verticalAlign=bottom;spacingLeft=-4;" value="Email">
@@ -103,8 +94,14 @@
             <mxPoint x="720" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iB75DvdvDCH5Lw6uBjdG-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="A0" vertex="1">
-          <mxGeometry height="30" width="60" x="470" y="450" as="geometry" />
+        <mxCell id="iB75DvdvDCH5Lw6uBjdG-9" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="120" width="250" x="280" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="GbyoX73C8e9cxs2zFdnz-1" parent="iB75DvdvDCH5Lw6uBjdG-9" style="rounded=0;whiteSpace=wrap;html=1;" value="Подбор персонала" vertex="1">
+          <mxGeometry height="120" width="240" as="geometry" />
+        </mxCell>
+        <mxCell id="iB75DvdvDCH5Lw6uBjdG-8" parent="iB75DvdvDCH5Lw6uBjdG-9" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="A0" vertex="1">
+          <mxGeometry height="30" width="60" x="190" y="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
