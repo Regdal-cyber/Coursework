@@ -1,0 +1,87 @@
+<mxfile host="app.diagrams.net" pages="2">
+  <diagram name="DFD Level 1" id="0">
+    <mxGraphModel dx="1435" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="emp" parent="1" style="shape=rectangle;" value="Работодатель" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="cand" parent="1" style="shape=rectangle;" value="Кандидат" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="p1" parent="1" style="ellipse;" value="1. Управление вакансиями" vertex="1">
+          <mxGeometry height="80" width="160" x="280" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="p2" parent="1" style="ellipse;" value="2. Управление кандидатами" vertex="1">
+          <mxGeometry height="80" width="160" x="290" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="p3" parent="1" style="ellipse;" value="3. Отбор кандидатов" vertex="1">
+          <mxGeometry height="80" width="180" x="880" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="p4" parent="1" style="ellipse;" value="4. Процесс собеседования" vertex="1">
+          <mxGeometry height="80" width="180" x="420" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="db1" parent="1" style="shape=datastore;" value="БД кандидатов" vertex="1">
+          <mxGeometry height="60" width="140" x="610" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="db2" parent="1" style="shape=datastore;" value="БД о вакансиях" vertex="1">
+          <mxGeometry height="60" width="140" x="570" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="f1" edge="1" parent="1" source="emp" target="p1" value="Запрос на работу">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f2" edge="1" parent="1" source="cand" target="p2" value="резюме">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f3" edge="1" parent="1" source="p1" target="db2" value="Сохранить вакансию">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f4" edge="1" parent="1" source="p2" target="db1" value="Сохранить кандидата">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f5" edge="1" parent="1" source="db1" target="p3" value="Считывание данных">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f6" edge="1" parent="1" source="db2" target="p3" value="Считывание данных">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f7" edge="1" parent="1" source="p3" target="p4" value="Отобранные кандидаты">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f8" edge="1" parent="1" source="p4" target="emp" value="Результаты">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="FfzvuliCgFU7fddjBTxl" name="Страница-2">
+    <mxGraphModel dx="1435" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="H6ptZbV_WZP6lP_k5eaU-1" parent="1" style="shape=rectangle;" value="Работодатель" vertex="1">
+          <mxGeometry height="60" width="140" x="139" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="H6ptZbV_WZP6lP_k5eaU-2" parent="1" style="shape=rectangle;" value="Кандидат" vertex="1">
+          <mxGeometry height="60" width="140" x="139" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="H6ptZbV_WZP6lP_k5eaU-3" parent="1" style="ellipse;" value="Система кадрового агентства" vertex="1">
+          <mxGeometry height="100" width="200" x="489" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="H6ptZbV_WZP6lP_k5eaU-4" edge="1" parent="1" source="H6ptZbV_WZP6lP_k5eaU-1" target="H6ptZbV_WZP6lP_k5eaU-3" value="Job Request">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H6ptZbV_WZP6lP_k5eaU-5" edge="1" parent="1" source="H6ptZbV_WZP6lP_k5eaU-3" target="H6ptZbV_WZP6lP_k5eaU-1" value="Список кандидатов">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H6ptZbV_WZP6lP_k5eaU-6" edge="1" parent="1" source="H6ptZbV_WZP6lP_k5eaU-2" target="H6ptZbV_WZP6lP_k5eaU-3" value="Resume / Application">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H6ptZbV_WZP6lP_k5eaU-7" edge="1" parent="1" source="H6ptZbV_WZP6lP_k5eaU-3" target="H6ptZbV_WZP6lP_k5eaU-2" value="Информация о вакансии / Приглашение">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
